@@ -5,9 +5,13 @@ Wordpress can be hosting at heroku. Expand cost 0$ a month, included WooCommerce
 
 ### [DEMO here](https://as-syariahbordir.herokuapp.com/)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/as-syariahbordir/wordpress-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/baalajimaestro/wordpress-heroku)
 
 ## Changelog
+
+Upreved to Wordpress 5.8.1.rc1
+Default user name: admin
+Default password: admin
 
 #### 0.3 (2021-05-30)
 * Bedrock 1.7.9
